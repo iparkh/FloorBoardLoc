@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FloorBoardLoc</string>
+    <string name="title_activity_board_loc">BoardLocActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_boards">BoardsActivity</string>
+    <string name="title_activity_activity_boards">ActivityBoards</string>
+    <string name="title_activity_activity_board">ActivityBoard</string>
+    <string name="title_activity_activity_floors">ActivityFloors</string>
+    <string name="title_activity_activity_floor">ActivityFloor</string>
+    <string name="txtname">Найменування</string>
+    <string name="txtlength" >Довжина</string>
+    <string name="txtwidth" >Ширина</string>
+    <string name="txtfloor">Підлога</string>
+    <string name="txtboard">Дошка</string>
+
+</resources>
